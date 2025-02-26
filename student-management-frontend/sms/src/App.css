@@ -1,0 +1,36 @@
+.footer {
+    background-color: black; /* Dark background for contrast */
+    text-align: center; /* Center-align text */
+    color: white;
+    position: fixed; /* Keeps it within the page flow */
+    bottom: 0;
+    width: 100%; /* Full width */
+    height: 50px; 
+}
+
+
+.navbar {
+    display: flex;
+    justify-content: center; /* Centers text horizontally */
+    align-items: center; /* Aligns items vertically */
+    height: 60px; /* Adjust height if needed */
+  }
+
+  .custom-hover tr:hover {
+    background-color: #f0f8ff !important; /* Light blue hover */
+    transition: background-color 0.3s ease; /* Smooth transition */
+}
+
+.fixed-table {
+    table-layout: fixed; /* Keeps column widths fixed */
+    width: 100%; /* Ensures table does not stretch */
+}
+
+.fixed-table th,
+.fixed-table td {
+    overflow: hidden;
+    text-align: center;
+    vertical-align: middle;
+    word-wrap: break-word; /* Allows text to wrap */
+    white-space: normal; /* Prevents truncation */
+}
