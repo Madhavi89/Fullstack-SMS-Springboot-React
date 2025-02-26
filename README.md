@@ -4,6 +4,8 @@ Student Management System
 
 ![List of Students](https://github.com/user-attachments/assets/a829f4c5-8d7b-4854-89ab-23b3b23a346d)
 ![Add Student](https://github.com/user-attachments/assets/7d88bc69-0a6b-47d1-843b-809a53caaa15)
+![image](https://github.com/user-attachments/assets/1804156e-81cd-459e-8cfa-38953bc63177)
+
 
 
 ![List of Departments](https://github.com/user-attachments/assets/d0cfc612-9e9d-42bc-89e3-943e93b06a36)
